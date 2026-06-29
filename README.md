@@ -1,10 +1,13 @@
 #CmdRat 1.0.0
 это ратник и полностья бесплатный и он написан на базе либериума
-                # i love CMD SQUAD
-                # https://discord.gg/WAhvtMxJ6
+#i love CMD SQUAD
+#https://discord.gg/WAhvtMxJ6
 там имеится rce зищита новые плюшки и пофикшен билдер и юзеры преходят
-               # ovner : псевдоним - qwerty123zzdw дискорд trakkiler1111_98149
+#ovner : псевдоним - qwerty123zzdw дискорд trakkiler1111_98149
 только не пишите по хуйне
 
 
 он был платным но я сегодня щедрый
+
+#login: admin
+#password: admin
